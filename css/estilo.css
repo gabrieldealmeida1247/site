@@ -1,5 +1,45 @@
 @charset "UTF-8";
 
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
 body{
-    background:#ADD8E6;
+    margin: auto;
+}
+header{
+    background: #2D5377;
+}
+.conteudo{
+
+}
+.logo{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: white;
+}
+
+div#img{
+
+}
+ul{
+    list-style-type: none;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:50em;
+}
+
+.menu_item{
+    margin: 50px;
+    color: white;
+}
+   
+#ini{
+        background-color: #e93d50;
+        padding: 15px;
+        border-radius: 6px;
 }
