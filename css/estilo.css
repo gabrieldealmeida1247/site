@@ -36,26 +36,17 @@ ul{
     list-style-type: none;
 }
 .menu{
-    display: inline;
-    /*
     display: flex;
     justify-content: space-between;
     align-items: center;
-    */
 }
 
 .menu_item{
-    /*
+    
     position:absolute;
     bottom: 490px;
     margin: 50px;
     color: black;
-    */
-    margin-left: 20px;
-    font-size: 15px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
     
     
 }
