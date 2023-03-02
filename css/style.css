@@ -23,7 +23,6 @@ a{
      
 }
 #logo{
-    font-weight: 30px;
     position: relative;
     bottom:  650px;
     padding: 20px;
@@ -46,7 +45,14 @@ a{
 a#sobre:hover{
     background-color: rgb(235, 40, 73);
     border-radius: 10px;
+    transition: 1.5s;
 
+}
+.cor:hover{
+    background-color: #FFFBFF;
+    color: #E4DEB7;
+    border-radius: 10px;
+    transition: 1.5s;
 }
 
 .menu li{
