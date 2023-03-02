@@ -9,6 +9,7 @@ body, ul,li, p{
 }
 
 a{
+    font-weight: 600;
     text-decoration: none;
     color:ghostwhite;
     text-shadow: 2px 2px 4px rgb(0, 0, 0);
@@ -22,6 +23,7 @@ a{
      
 }
 #logo{
+    font-weight: 30px;
     position: relative;
     bottom:  650px;
     padding: 20px;
@@ -56,8 +58,17 @@ a#sobre:hover{
     display: block;
     padding: 20px;
 }
+section#inf{
+    position:relative;
+    bottom: 30em;
+    text-align: center;
+    color: white;
+}
 
-
-
-
-
+#h1{
+    font-size: 50pt;
+}
+#p{
+    font-size: 25pt;
+    font-weight: normal;
+}
