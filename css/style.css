@@ -50,7 +50,7 @@ a#sobre:hover{
 }
 .cor:hover{
     background-color: #FFFBFF;
-    color: #E4DEB7;
+    color: rgb(235, 40, 73);
     border-radius: 10px;
     transition: 1.5s;
 }
